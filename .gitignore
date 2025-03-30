@@ -6,5 +6,6 @@ Instructor/
 
 *.asv
 
+# tools for Matlab
 eeglab/
 fieldtrip/
