@@ -9,3 +9,6 @@ Instructor/
 # tools for Matlab
 eeglab/
 fieldtrip/
+
+# 
+*.wav
