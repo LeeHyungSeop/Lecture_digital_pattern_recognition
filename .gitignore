@@ -5,3 +5,6 @@ results/
 Instructor/
 
 *.asv
+
+eeglab/
+fieldtrip/
