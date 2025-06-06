@@ -44,3 +44,5 @@ for i, deg in enumerate(degrees):
 
 plt.tight_layout()
 plt.show()
+
+# %%
